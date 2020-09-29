@@ -2,3 +2,4 @@
 this is a line between
 new line added
 “Change added in dazzling_feature branch.” 
+new change again 
